@@ -1,25 +1,14 @@
 
-Installation information
-=======
+通过旧版QQ侵入式窃取任何用户所在的聊天群内的信息
+仅供学习使用
+制作：B站：不走寻常路的路哥1号。
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
-
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
-
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
-
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
-
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+你真信啊？傻逼东西，小脑萎缩才能相信腾讯的防护能被这么随便侵入
+还是连续侵入几个月，也就你们那群傻逼会信了。
+路畜船畜一群傻逼。
+腾讯的QQ有这么大的漏洞还能持续几个月，那腾讯也别活了。
+说的就是你们这群小丑，尤其是那个路。
+自己被欺骗了这么久，但凡有一点点脑子都能想明白的东西。
+废物。
+傻逼。
+垃圾。
